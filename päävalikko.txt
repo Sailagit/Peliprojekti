@@ -1,0 +1,14 @@
+
+PÄÄVALIKKO
+komento - toiminto
+    1 -   Näytä Päävalikko
+    2 -   Lue ohjeet
+    3 -   Liiku toiseen huoneeseen
+    4 -   Näytä huoneen kissat
+    5 -   Siirrä kissa kuljetuskärryyn
+    6 -   Näytä kuljetuskärryssä olevat kissat
+    7 -   Siirrä kissa huoneeseen
+    8 -   Täytä ruokakuppi
+    9 -   Tyhjennä hiekkalaatikko
+    10 -  Näytä sijaintisi
+lopeta -  Lopeta peli

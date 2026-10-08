@@ -1,0 +1,10 @@
+
+Ohjeet seuraavalle työvuoroon tulevalle:
+Kissoilla on alkanut syntyä erimielisyyksiä, minkä vuoksi kissojen
+huonejärjestystä on muutettava.
+Kissat Ahri ja Sulo on sijoitettava omiin huoneisiin.
+Pystyt siirtämään kissoja laittamalla niitä kuljetuskärryyn.
+Huoneita on yhteensä 4, ja jokaisessa huoneessa on ruokakuppi ja hiekkalaatikko.
+Ruokakupit pitää täyttää ja hiekkalaatikkot pitää tyhjentää.
+
+Onnea työvuoroon!

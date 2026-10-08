@@ -1,0 +1,14 @@
+# Kissahoitola - Peli
+Pelin tarkoituksena on suorittaa kaikki annetut työtehtävät, jotta pelissä voi saada onnistuneen lopetuksen.
+Jos jonkun työtehtävän jättää suorittamatta pelin lopettaessa, niin syntyy erilainen lopetus.
+Pelissä pelaaja liikkuu ja tekee asioita antamalla komentoja.
+Pelissä on suurimmaksi osaksi aikaa käytössä monta toiminnallista komentoa, mikä voi tehdä luettavuudesta
+tai muistettavuudesta hankalaa.
+Peli on aika pitkä, koska suorittevia toimintoja on paljon jos haluu saada onnistuneen lopetuksen.
+Hyödynsin aikaisemmasta pelistä kerää, siirry, näytä funktioita, mitkä ovat keskeisessä roolissa.
+Yritin jäsennellä funktiot omaan tiedostoon, luokat ja niiden mahdolliset metodit ovat omina tiedostoinaan.
+Tein kolme eri teksti tiedostoa, joita voi hyödyntää pelatessa.
+Tällä tavoin pyrin pitämään itse pääohjelma selkeänä.
+Etsin netistä paljon tietoa saadakseni koodit toimimaan.
+Kestävän kehityksen otin huomioon pelin alussa mainitsemalla, että kissahoitola on uusiutuvalla energialla toimiva
+sekä kissoja ruokitaan kestävästi kalastetulla kalaruualla. 
