@@ -77,9 +77,6 @@ while komento != "lopeta":
     elif komento == "10":
         toiminnot.sijainti(pelaaja1)
 
-    #elif komento == "6":
-        #tallenna_peli()
-
     elif komento == "lopeta":
         if lopetus.tarkista_pelin_lopetus(pelaaja1, huoneet):
             print("Onneksi olkoon, suoriuduit työvuorosta onnistuneesti!")
